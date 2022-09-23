@@ -6,6 +6,8 @@
 ## Connect with me:
 - [Website][website]
 - [LinkedIn][linkedin]
+- [Email]
 
 [website]: https://derekhassan.dev/
 [linkedin]: https://www.linkedin.com/in/derek-h-aa43731a2/
+[email]: mailto:derek@derekhassan.dev
