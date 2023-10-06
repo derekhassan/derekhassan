@@ -3,9 +3,9 @@
 - 📚 I’m currently learning cloud technologies (specifically Azure)!
 - 📈 2023 Goals
   - Obtain Azure Developer Associate certification ✔
-  - Contribute to open source software
+  - Contribute to open source software ✔
   - Read _Design Patterns: Elements of Reusable Object-Oriented Software_
-  - Create 5+ new blog posts on my personal site
+  - Create 5+ new blog posts on my personal site ✔
   - Learn a new programming language
 
 ## Certifications
