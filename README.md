@@ -1,9 +1,9 @@
 # Hi I'm Derek and I'm a Full Stack JavaScript Developer 👨‍💻
 
-- 📚 I’m currently learning cloud technologies (specifically Azure)!
-- 📈 2024 Goals
-  - Contribute to open-source software
-  - Create 5+ new blog posts on my personal site
+- 📚 I’m currently learning mobile development (specifically Flutter)!
+- 📈 2025 Goals
+  - Develop and publish an app to Google Play/Apple App Store
+  - Learn Flutter
 
 ## Certifications
 ![microsoft-certified-azure-fundamentals](https://user-images.githubusercontent.com/26441727/216743276-fe67d226-50f6-4aba-8633-ee365e56ffca.png)
